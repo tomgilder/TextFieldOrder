@@ -1,0 +1,32 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextFieldOrderExample", "TextFieldOrderExample\TextFieldOrderExample.csproj", "{98DFB6AD-651F-4CC0-ACEF-0E59E94DE4C4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+		Release|iPhone = Release|iPhone
+		Ad-Hoc|iPhone = Ad-Hoc|iPhone
+		AppStore|iPhone = AppStore|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98DFB6AD-651F-4CC0-ACEF-0E59E94DE4C4}.Ad-Hoc|iPhone.ActiveCfg = Ad-Hoc|iPhone
+		{98DFB6AD-651F-4CC0-ACEF-0E59E94DE4C4}.Ad-Hoc|iPhone.Build.0 = Ad-Hoc|iPhone
+		{98DFB6AD-651F-4CC0-ACEF-0E59E94DE4C4}.AppStore|iPhone.ActiveCfg = AppStore|iPhone
+		{98DFB6AD-651F-4CC0-ACEF-0E59E94DE4C4}.AppStore|iPhone.Build.0 = AppStore|iPhone
+		{98DFB6AD-651F-4CC0-ACEF-0E59E94DE4C4}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{98DFB6AD-651F-4CC0-ACEF-0E59E94DE4C4}.Debug|iPhone.Build.0 = Debug|iPhone
+		{98DFB6AD-651F-4CC0-ACEF-0E59E94DE4C4}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{98DFB6AD-651F-4CC0-ACEF-0E59E94DE4C4}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{98DFB6AD-651F-4CC0-ACEF-0E59E94DE4C4}.Release|iPhone.ActiveCfg = Release|iPhone
+		{98DFB6AD-651F-4CC0-ACEF-0E59E94DE4C4}.Release|iPhone.Build.0 = Release|iPhone
+		{98DFB6AD-651F-4CC0-ACEF-0E59E94DE4C4}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{98DFB6AD-651F-4CC0-ACEF-0E59E94DE4C4}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = TextFieldOrderExample\TextFieldOrderExample.csproj
+	EndGlobalSection
+EndGlobal
